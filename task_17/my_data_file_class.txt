@@ -1,0 +1,9 @@
+name = Sathvik Chialaka
+country = United States of America
+state= Washington
+city = Bothell
+school = Bothell High School
+number = 4256864251
+date_of_birth = April 13, 2006
+
+233

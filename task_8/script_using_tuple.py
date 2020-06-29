@@ -1,0 +1,7 @@
+line_1 = ("Hello",)
+print(type(line_1))
+line_2 = (1, 13, 27, 37, 47, 23, 1)
+print(line_2)
+print(type(line_2))
+count = line_2.count(1)
+print(count)

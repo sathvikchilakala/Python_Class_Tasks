@@ -1,0 +1,4 @@
+pid,pname,price
+101,Mobile,10000
+102,Laptop,40000
+103,Pendrive,800

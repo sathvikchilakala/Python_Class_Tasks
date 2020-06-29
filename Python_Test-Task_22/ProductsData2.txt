@@ -1,0 +1,4 @@
+pid,pname,price
+104,100000,TV
+102,40000,IPAD
+103,8000,HeadSet
